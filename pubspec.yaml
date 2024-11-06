@@ -1,0 +1,50 @@
+name: unawa_achievements
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.6.0
+  cloud_firestore: ^5.4.4
+  firebase_auth: ^5.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+   - assets/ace_icon.png
+   - assets/Ace.png
+   - assets/beginner_icon.png
+   - assets/beginner.png
+   - assets/ben10_icon.png
+   - assets/ben10.png
+   - assets/first_icon.png
+   - assets/firsttime.png
+   - assets/fivevowels_icon.png
+   - assets/fivevowels.png
+   - assets/greetings_icon.png
+   - assets/greetings.png
+   - assets/hero_icon.png
+   - assets/hero.png
+   - assets/hi5_icon.png
+   - assets/highfive.png
+   - assets/ily_icon.png
+   - assets/ily.png
+   - assets/like.png
+   - assets/okay_icon.png
+   - assets/phrase_icon.png
+   - assets/phrase.png
+   - assets/tyt_icon.png
+   - assets/tyt.png
+   - assets/uuuuu_icon.png
+   - assets/uuuuu.png
